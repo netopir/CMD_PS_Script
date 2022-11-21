@@ -1,4 +1,6 @@
-﻿#PowerShell: Set the location to rar programm
+# Install from Powershell Gallery https://www.powershellgallery.com/packages/PSWriteColor
+# Install-Module -Name PSWriteColor
+#PowerShell: Set the location to rar programm
 $rardirectory = "C:\Program Files\WinRAR\Rar.exe"
 #PowerShell: Set the location to par2 programm
 $par2directory = "C:\Users\Martin\Desktop\Usenet_Programms\ngPost_bluray\par2.exe"
