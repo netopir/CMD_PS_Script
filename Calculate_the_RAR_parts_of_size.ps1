@@ -1,4 +1,4 @@
-﻿$source = "\\NASHDSERVER\Public4\SabNzb\BluRay\Imax.Sea.Rex.3D.2010.AVC.DTS.HD-MA5.1-Untouched"
+﻿$source = "\\Path\to\folder"
 $rarvolumes = 150
 
 Write-Host "`nShow the Size of Source Folder" -ForegroundColor Green
